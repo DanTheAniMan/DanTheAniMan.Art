@@ -42,7 +42,8 @@ h2{
 }
 
 li{
-    font-size: 30px;
+    text-align: center;
+    font-size: 25px;
     padding: 2px;
     border-bottom: 5px solid rgba(0,0,0,0.5);
     border-right: 5px solid rgba(0,0,0,0.5);
@@ -143,15 +144,16 @@ html, body {
     
 }
 
-
 .gallery{
     padding-top: 50px;
     padding-left: 225px;
+    padding-bottom: 50px;
 }
 
 .gallery-an{
     padding-top: 50px;
     padding-left: 225px;
+    padding-bottom: 50px;
     margin: auto;
 }
 
@@ -197,6 +199,7 @@ p{
     margin-left: auto;
     margin-right: auto;
     font-size: 45px;
+    padding-top: 20px;
     padding-bottom: 20px;
 }
 
